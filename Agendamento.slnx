@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Agendamento.Api/Agendamento.Api.csproj" />
+  <Project Path="Agendamento.Domain/Agendamento.Domain.csproj" />
+  <Project Path="Agendamento.Infrastructure/Agendamento.Infrastructure.csproj" />
+  <Project Path="Agendamento.Service/Agendamento.Service.csproj" />
+</Solution>
